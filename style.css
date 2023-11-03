@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vh;
+    height: 100;
+    background: url(ph.gif);
+    background-size: cover;
+  
+}
+.head{
+    color: blanchedalmond;
+    justify-content: center;
+    top: 40%;
+    left: 38%;
+    position: absolute;
+    bottom: auto;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.container{
+    font-family:'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-weight: bolder;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: auto;
+    transform: translate(-50% , 50%);
+    font-weight: 200;
+    font-size:xx-large;    
+}
